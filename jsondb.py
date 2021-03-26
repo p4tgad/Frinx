@@ -267,13 +267,3 @@ def mainScript():
 if __name__=="__main__":
 	mainScript()
 
-
-
-	
-
-
-
-
-
-
-	
